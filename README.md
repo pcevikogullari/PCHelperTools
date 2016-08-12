@@ -2,7 +2,7 @@
 
 Required helper methods are combined in one util class
 
-#USAGE
+##Usage
 
 ###Gradle
 
